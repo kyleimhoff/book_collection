@@ -1,0 +1,10 @@
+CRUD
+
+Users 
+    -create new Users
+    -delete account
+    -sessions
+    -add books to list
+    -update books list
+    -delete books from list
+Books
